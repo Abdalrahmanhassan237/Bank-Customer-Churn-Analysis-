@@ -1,5 +1,7 @@
 # Bank Customer Churn Prediction & Analytics
 
+[You can see & interacte with Dashboard live from here](https://app.powerbi.com/view?r=eyJrIjoiYWYyYzlkNWItYTkwZC00OGUyLThlNWItM2FmYmNiYzI4YTM5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9) 
+
 ## Project Overview
 This project delivers a comprehensive, end-to-end data analytics and predictive modeling solution designed to analyze and forecast customer churn within the banking sector. By transforming raw operational data into actionable business intelligence, the project provides a strategic framework for improving customer retention.
 
