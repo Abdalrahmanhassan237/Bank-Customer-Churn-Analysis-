@@ -1,5 +1,8 @@
 # Bank Customer Churn Prediction & Analytics
 
+<img width="6150" height="3525" alt="Bank Customer Churn_page-0001" src="https://github.com/user-attachments/assets/44421255-4539-4fde-8231-55089a4f7aae" />
+
+
 [You can see & interacte with Dashboard live from here](https://app.powerbi.com/view?r=eyJrIjoiYWYyYzlkNWItYTkwZC00OGUyLThlNWItM2FmYmNiYzI4YTM5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9) 
 
 ## Project Overview
